@@ -30,8 +30,8 @@ To deploy and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/online-multiuser-chat-platform.git
-    cd online-multiuser-chat-platform
+    git clone https://github.com/devanshtakkar/chat-app.git
+    cd chat-app
     ```
 
 2. Install dependencies:
